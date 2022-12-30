@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tic_Tac_Toe</string>
+    <string name="winner_message">Поздравляем! Вы победили!</string>
+    <string name="winner_messagePC">Кампуктер выиграл(</string>
+    <string name="new_game">Новая игра</string>
+    <string name="draw_message">Ничья</string>
+    draw_message
 </resources>
